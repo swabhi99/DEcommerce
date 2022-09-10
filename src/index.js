@@ -11,7 +11,7 @@ import { Auth0Provider } from '@auth0/auth0-react'
 // 7vHgXJ01aWGyMVLWdZUwQSUapigdjfKu
 ReactDOM.render(
   <Auth0Provider
-    domain={"dev-pu8wyk-g.us.auth0.com"}
+    domain={"de-commerce.vercel.app"}
     clientId={"7vHgXJ01aWGyMVLWdZUwQSUapigdjfKu"}
     redirectUri={window.location.origin}
     cacheLocation='localstorage'
